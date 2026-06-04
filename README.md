@@ -7,4 +7,4 @@ HTML
 CSS
 
 Purpose
-This project was built for learning and experimentation.
+This project was built for learning.
